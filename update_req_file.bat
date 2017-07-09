@@ -1,0 +1,1 @@
+activate wikipaths_scorer && pip freeze > requirements.txt
