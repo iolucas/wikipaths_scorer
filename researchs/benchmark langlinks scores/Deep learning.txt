@@ -1,0 +1,22 @@
+All langlinks                     Score  All langlinks_norm                Score  Filtered langlinks              Score  Filtered langlinks_norm           Score  Only english                    Score
+----------------------------  ---------  ----------------------------  ---------  ----------------------------  -------  ----------------------------  ---------  ----------------------------  -------
+Machine_learning              5083       Machine_learning              4.59014    Machine_learning                 4739  Machine_learning              1.56489    Training                      20
+Backpropagation               1688       Convolutional_neural_network  4.07061    Artificial_neural_network          83  Algorithm                     0.428515   Speech_recognition            18.6667
+Perceptron                     265       Principal_Component_Analysis  3.00253    Supervised_learning                65  Artificial_intelligence       0.28564    Brain                         14
+Convolutional_neural_network   224       Backpropagation               1.0373     Training                           38  Artificial_neural_network     0.272372   Automatic_speech_recognition  13.3333
+Artificial_neural_network       85       Perceptron                    1.03515    Algorithm                          28  Unsupervised_learning         0.253091   Unsupervised_learning         13
+Supervised_learning             76       Algorithm                     0.448717   Biological_neural_network          25  Supervised_learning           0.25308    Supervised_learning           11
+Principal_Component_Analysis    62       Artificial_intelligence       0.288165   Natural_language_processing        23  Speech_recognition            0.107488   Machine_learning              10
+Training                        58       Unsupervised_learning         0.285919   Brain                              22  AlphaGo                       0.091795   Algorithm                      8
+Algorithm                       36       Supervised_learning           0.280858   Unsupervised_learning              21  Vector_space                  0.0911188  Computer_vision                7
+Brain                           36       Artificial_neural_network     0.277422   Artificial_intelligence            20  TensorFlow                    0.0848625  Probabilistic                  6
+Unsupervised_learning           34       Speech_recognition            0.154626   Convolution                        19  Natural_language_processing   0.0756337  TIMIT                          6
+Natural_language_processing     27       AlphaGo                       0.0943202  Backpropagation                    15  Convolutional_neural_network  0.0655615  Deep_belief_network            5
+Speech_recognition              26.6667  Vector_space                  0.0936441  Vector_space                       14  Go_(game)                     0.064497   Regularization_(mathematics)   5
+Biological_neural_network       26       TensorFlow                    0.0873878  AlphaGo                            10  Computer_vision               0.0420538  Yann_LeCun                     5
+Artificial_intelligence         21       Natural_language_processing   0.0857348  Go_(game)                           9  Yoshua_Bengio                 0.0413223  MNIST_database                 5
+Convolution                     20       Go_(game)                     0.0695475  Speech_recognition                  8  Geoffrey_Hinton               0.0401207  Backpropagation                5
+Vector_space                    15       Computer_vision               0.0597305  Computer_vision                     8  Deep_belief_network           0.0392157  Natural_language_processing    4
+Computer_vision                 15       Brain                         0.0591026  Facebook                            8  Recurrent_neural_network      0.0392157  Machine_translation            4
+Automatic_speech_recognition    13.3333  Training                      0.0579986  Convolutional_neural_network        8  Baidu                         0.0388559  Mixture_model                  4
+Facebook                        12       Deep_belief_network           0.0518419  TensorFlow                          7  Jürgen_Schmidhuber            0.0384615  Language_model                 4

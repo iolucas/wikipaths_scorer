@@ -1,0 +1,22 @@
+All langlinks                    Score  All langlinks_norm                  Score  Filtered langlinks             Score  Filtered langlinks_norm          Score  Only english                      Score
+---------------------------  ---------  -------------------------------  --------  ---------------------------  -------  ---------------------------  ---------  ------------------------------  -------
+C_(programming_language)     1164.33    HTML                             5.76167   C_(programming_language)     736.833  C_(programming_language)     0.923404   Subroutine                         69
+Java_(programming_language)   367.667   Java_(programming_language)      5.16061   ECMAScript                   153.5    ECMAScript                   0.394722   Object_(computer_science)          64
+HTML                          258       Programming_language             3.47574   Web_browser                  118      HTML                         0.33322    ECMAScript                         29.5
+ECMAScript                    232.5     Web_browser                      3.22754   HTML                         115      Document_Object_Model        0.241573   Java_(programming_language)        29
+Web_browser                   189       C_(programming_language)         3.17726   Object_(computer_science)    110      Netscape                     0.234631   Prototype_JavaScript_Framework     25
+Programming_language          139       ECMAScript                       1.68645   Java_(programming_language)  105.167  Web_browser                  0.212429   Web_browser                        21
+Microsoft                     125.5     Netscape                         1.53837   Document_Object_Model         87      JScript                      0.20941    Computer_program                   20
+Netscape                      124.167   Internet_Explorer                1.27146   Netscape                      71.5    Java_(programming_language)  0.188295   HTML                               19
+Object_(computer_science)     122       Scripting_language               1.1499    Microsoft                     70.5    Scripting_language           0.148453   JavaScript_engine                  18.5
+World_Wide_Web                114       CoffeeScript                     1.0217    Subroutine                    69      Ecma_International           0.14694    Document_Object_Model              18
+Internet_Explorer             109       Microsoft                        0.958858  Internet_Explorer             64      Microsoft                    0.139719   Google                             17
+JScript                       107       Ajax_(programming)               0.857313  Mozilla                       62      Object_(computer_science)    0.121884   Programming_language               17
+Document_Object_Model         101       Object-oriented_programming      0.543824  JScript                       61      Internet_Explorer            0.112883   Internet_Explorer                  17
+Netscape_Navigator             85.3333  Netscape_Navigator               0.539531  Source_code                   56      Ajax_(programming)           0.112268   Syntax_(programming_languages)     13
+Mozilla                        85       OpenOffice.org                   0.514383  Prototype-based_programming   55      World_Wide_Web               0.111767   JScript                            12
+Object-oriented_programming    84       World_Wide_Web                   0.471888  Netscape_Navigator            54.5    Prototype-based_programming  0.110951   Microsoft_Outlook                  11.5
+Ajax_(programming)             79       JScript                          0.462525  World_Wide_Web                53      Mozilla                      0.096402   Microsoft                          11.5
+Subroutine                     78.5     Document_Object_Model            0.435581  Object-oriented_programming   49      Netscape_Navigator           0.095566   Google_Chrome                      11
+Scripting_language             74       Sun_Microsystems                 0.42798   Programming_language          49      Programming_language         0.0934996  Method_(computer_science)          11
+Prototype-based_programming    64       High-level_programming_language  0.381196  Computer_program              49      Object-oriented_programming  0.0908819  Firefox                            11

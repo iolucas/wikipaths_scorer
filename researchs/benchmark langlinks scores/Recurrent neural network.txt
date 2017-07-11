@@ -1,0 +1,13 @@
+All langlinks                Score  All langlinks_norm                    Score  Filtered langlinks                  Score  Filtered langlinks_norm               Score  Only english                 Score
+-------------------------  -------  --------------------------------  ---------  --------------------------------  -------  --------------------------------  ---------  -------------------------  -------
+Artificial_neural_network      304  Tensor                            3.00893    Artificial_neuron                      14  Artificial_neuron                 0.407407   Weighting                       14
+Tensor                          41  Artificial_neural_network         1.25976    Artificial_neural_network               6  Artificial_neural_network         0.255291   Memory                          11
+Artificial_neuron               15  Artificial_neuron                 0.411872   Backpropagation                         3  Hopfield_network                  0.132275   Algorithm                        8
+Weighting                       14  Hopfield_network                  0.145668   Hopfield_network                        3  Backpropagation                   0.101852   Mathematical_optimization        7
+Memory                          11  Backpropagation                   0.119709   Activation_function                     2  Bidirectional_associative_memory  0.0952381  Jeff_Elman                       6
+Algorithm                        8  Bidirectional_associative_memory  0.104167   Handwriting_recognition                 2  Content-addressable_memory        0.0952381  Recursive_neural_network         6
+Backpropagation                  7  Content-addressable_memory        0.0997024  Speech_recognition                      2  Handwriting_recognition           0.0648148  Recurrent_neural_networks        6
+Speech_recognition               7  Speech_recognition                0.0871362  Bidirectional_associative_memory        2  Speech_recognition                0.0648148  Speech_recognition               5
+Mathematical_optimization        7  Handwriting_recognition           0.0737434  Content-addressable_memory              2  Activation_function               0.0555556  Michael_I._Jordan                5
+Hopfield_network                 6  Activation_function               0.0689484  Machine_translation                     1  Long_short-term_memory            0.047619   Fitness_function                 5
+Jeff_Elman                       6  Long_short-term_memory            0.0654762  Long_short-term_memory                  1  Machine_translation               0.0277778  Deep_learning                    5

@@ -1,0 +1,11 @@
+All langlinks                    Score  All langlinks_norm                Score  Filtered langlinks               Score  Filtered langlinks_norm            Score  Only english                     Score
+-----------------------------  -------  -----------------------------  --------  -----------------------------  -------  -----------------------------  ---------  -----------------------------  -------
+Sinatra_(software)                  47  Sinatra_(software)             5.16516   Node.js                             14  Node.js                        0.478801   Node.js                              3
+MongoDB                             29  MongoDB                        1.31489   MongoDB                              6  MongoDB                        0.256067   IBM                                  2
+Serial_communication                20  Serial_communication           1         AngularJS                            5  AngularJS                      0.210613   StrongLoop                           2
+Node.js                             17  Node.js                        0.655271  MEAN_(software_bundle)               4  MEAN_(software_bundle)         0.165158   De_facto                             1
+AngularJS                            6  AngularJS                      0.269436  IBM                                  3  Free_and_open-source_software  0.135747   Sinatra_(software)                   1
+MEAN_(software_bundle)               5  MEAN_(software_bundle)         0.223982  Free_and_open-source_software        3  Web_application                0.122378   Web_application                      1
+IBM                                  5  IBM                            0.205882  Sinatra_(software)                   2  MIT_License                    0.112637   API                                  1
+Free_and_open-source_software        4  Free_and_open-source_software  0.19457   MIT_License                          2  Sinatra_(software)             0.106335   Free_and_open-source_software        1
+MIT_License                          3  Web_application                0.181201  Web_application                      2  IBM                            0.0882353  MIT_License                          1

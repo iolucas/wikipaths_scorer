@@ -1,0 +1,22 @@
+All langlinks               Score  All langlinks_norm            Score  Filtered langlinks          Score  Filtered langlinks_norm        Score  Only english                Score
+------------------------  -------  ------------------------  ---------  ------------------------  -------  -------------------------  ---------  ------------------------  -------
+JavaScript                     44  JavaScript                1.91552    JavaScript                     38  JavaScript                 1.18987    Scalable_Vector_Graphics       13
+Scalable_Vector_Graphics       30  Web_browser               0.888919   Scalable_Vector_Graphics       28  Web_browser                0.811996   JavaScript                      9
+HTML                           17  Scalable_Vector_Graphics  0.755654   HTML                           12  Scalable_Vector_Graphics   0.478731   Web_browser                     4
+Cascading_Style_Sheets         11  HTML5                     0.695156   Web_browser                    10  HTML5                      0.254771   HTML                            4
+Web_browser                    11  Cascading_Style_Sheets    0.429914   Cascading_Style_Sheets          9  Document_Object_Model      0.223521   Prefuse                         3
+HTML5                           9  HTML                      0.408828   GeoJSON                         8  HTML                       0.216521   Cascading_Style_Sheets          3
+GeoJSON                         8  Document_Object_Model     0.223521   Prefuse                         6  GeoJSON                    0.167742   Normal_distribution             2
+Prefuse                         6  GeoJSON                   0.167742   HTML5                           5  Cascading_Style_Sheets     0.152991   Java_(software_platform)        2
+Mike_Bostock                    5  Prefuse                   0.089483   Mike_Bostock                    5  Prefuse                    0.089483   R_(programming_language)        2
+Tooltip                         4  Tooltip                   0.0881047  Tooltip                         4  Tooltip                    0.0881047  ActionScript                    1
+Document_Object_Model           4  Mike_Bostock              0.0782148  Document_Object_Model           4  Mike_Bostock               0.0782148  Web_mapping                     1
+Data_visualization              4  JSON                      0.0682892  Data_visualization              4  Data_visualization         0.0620857  Stanford_University             1
+R_(programming_language)        4  Data_visualization        0.0620857  R_(programming_language)        4  R_(programming_language)   0.0596553  Mike_Bostock                    1
+Stanford_University             3  R_(programming_language)  0.0596553  Stanford_University             3  Comma-separated_values     0.0568547  JSON                            1
+JSON                            3  Comma-separated_values    0.0568547  Comma-separated_values          3  Gnuplot                    0.0568547  Tooltip                         1
+Comma-separated_values          3  Gnuplot                   0.0568547  Gnuplot                         3  Matplotlib                 0.0568547  GeoJSON                         1
+Gnuplot                         3  Matplotlib                0.0568547  Matplotlib                      3  JQuery                     0.0568547  Comma-separated_values          1
+Matplotlib                      3  JQuery                    0.0568547  JQuery                          3  Stanford_University        0.0459567  Data_visualization              1
+JQuery                          3  Stanford_University       0.0459567  ActionScript                    2  ActionScript               0.0298277  GIS                             1
+ActionScript                    2  ActionScript              0.0298277  Web_mapping                     2  Web_mapping                0.0298277  HTML5                           1

@@ -1,0 +1,22 @@
+All langlinks                    Score  All langlinks_norm                  Score  Filtered langlinks               Score  Filtered langlinks_norm            Score  Only english                     Score
+-----------------------------  -------  -----------------------------  ----------  -----------------------------  -------  -----------------------------  ---------  -----------------------------  -------
+.dwg                               661  .dwg                           10.4766     Autodesk                           116  Autodesk                       1.213      Windows                             26
+Autodesk                           343  Unix                           10.1061     .dwg                                61  Computer-aided_design          1.15589    Autodesk                            25
+Unix                               341  Autodesk                        7.36271    Computer-aided_design               48  .dwg                           0.470572   MacOS                               16
+IPad                               274  MacOS                           5.11368    Architecture                        11  AutoLISP                       0.193268   Android_(operating_system)           9
+MacOS                              157  IPad                            4.0171     Visual_Basic_for_Applications       10  Architecture                   0.104677   IOS                                  7
+MongoDB                            155  Computer-aided_design           2.16188    C++                                  7  Unix                           0.100162   Commercial_software                  6
+Computer-aided_design               52  MongoDB                         2          AutoLISP                             7  Macintosh                      0.0963736  Architecture                         5
+Windows                             27  Windows                         1.15569    MS-DOS                               5  Visual_Basic_for_Applications  0.094138   AutoCAD_Architecture                 4
+Architecture                        16  AutoLISP                        0.199256   Unix                                 5  MS-DOS                         0.0641879  DGN                                  3
+Visual_Basic_for_Applications       12  Architecture                    0.134617   Macintosh                            4  C++                            0.0574009  App_Store_(iOS)                      3
+Android_(operating_system)          12  Macintosh                       0.10835    AutoCAD_Architecture                 3  AutoCAD_Architecture           0.0437229  Mac_App_Store                        2
+C++                                  8  Visual_Basic_for_Applications   0.106114   Design_Web_Format                    3  Design_Web_Format              0.0207071  Cloud_computing                      2
+AutoLISP                             8  Android_(operating_system)      0.0708114  Android_(operating_system)           3  DGN                            0.0204082  Macintosh                            2
+IOS                                  8  MS-DOS                          0.0701759  MacOS                                3  Hungarian_language             0.0192308  Microsoft_.NET                       2
+AutoCAD_Architecture                 7  AutoCAD_Architecture            0.067675   IPhone                               2  Polish_language                0.0192308  ObjectARX                            2
+MS-DOS                               6  C++                             0.063389   IPad                                 2  Spanish_language               0.0192308  DXF                                  2
+Macintosh                            6  IOS                             0.045704   Ribbon_(computing)                   2  Russian_language               0.0192308  Visual_Basic_for_Applications        2
+Commercial_software                  6  DGN                             0.0383722  Hungarian_language                   1  Czech_language                 0.0192308  Computer-aided_design                1
+DGN                                  4  Commercial_software             0.0359281  Polish_language                      1  German_language                0.0192308  AutoLISP                             1
+Design_Web_Format                    4  Design_Web_Format               0.0266951  Spanish_language                     1  French_language                0.0192308  Visual_LISP                          1

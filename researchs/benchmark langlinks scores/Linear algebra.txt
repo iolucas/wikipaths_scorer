@@ -1,0 +1,22 @@
+All langlinks                     Score  All langlinks_norm                 Score  Filtered langlinks               Score  Filtered langlinks_norm           Score  Only english                Score
+----------------------------  ---------  ----------------------------  ----------  ----------------------------  --------  ----------------------------  ---------  ------------------------  -------
+Hermann_Grassmann             1920       Hermann_Grassmann             18.0398     Matrix_(mathematics)          219.2     Matrix_(mathematics)          0.670846   Algebra_over_a_field           53
+Eigenvalues_and_eigenvectors  1109       Library_(computing)           13          Vector_space                  135       Vector_space                  0.52623    Matrix_(mathematics)           51
+Representation_theory          918       Eigenvalues_and_eigenvectors  11.0505     Field_(mathematics)            50.3333  Field_(mathematics)           0.203336   Basis_(linear_algebra)         41
+Vector_space                   484       Basis_(linear_algebra)         7.21414    Determinant                    50       Mathematics                   0.193155   Set_(mathematics)              26
+Library_(computing)            353       Representation_theory          5.00628    Basis_(linear_algebra)         46       Linear_map                    0.165157   Vector_space                   21
+Linear_combination             335       Vector_space                   4.56448    Linear_map                     42       Determinant                   0.150277   Coordinate                     18
+Matrix_(mathematics)           270.2     Algebra_over_a_field           3.13654    System_of_linear_equations     36.5     Basis_(linear_algebra)        0.139457   Determinant                    16
+Algebra_over_a_field           267       Linear_combination             3.04923    Mathematics                    32       System_of_linear_equations    0.136928   Field_(mathematics)            13
+Basis_(linear_algebra)         188       Functional_analysis            2.06501    Mathematical_analysis          21       Polynomial                    0.0807093  Function_(mathematics)         11
+Determinant                     66       Matrix_(mathematics)           0.763743   Real_number                    18.5     Mathematical_analysis         0.0716826  Map_(mathematics)              11
+Field_(mathematics)             63.3333  Field_(mathematics)            0.227015   Diagonal_matrix                18       Functional_analysis           0.0613643  Linear_span                    10
+Linear_map                      47       Mathematics                    0.205905   Complex_number                 17       Abstract_algebra              0.0611228  Scalar_multiplication           9
+System_of_linear_equations      41.5     Determinant                    0.179421   Gaussian_elimination           17       Real_number                   0.0532484  Linearly_independent            9
+Mathematics                     39       Linear_map                     0.174264   Linear_equation                17       Economics                     0.0494753  Element_(mathematics)           8
+Functional_analysis             38       System_of_linear_equations     0.146035   Arthur_Cayley                  15       Complex_number                0.0489369  Linear_combination              8
+Set_(mathematics)               32       Polynomial                     0.0843523  Abstract_algebra               15       Arthur_Cayley                 0.0469736  Dimension_(vector_space)        8
+Function_(mathematics)          24       Set_(mathematics)              0.0747824  Functional_analysis            15       Analytic_geometry             0.0460981  Inner_product                   8
+Real_number                     23.5     Mathematical_analysis          0.073504   Eigenvalues_and_eigenvectors   13       Eigenvalues_and_eigenvectors  0.045059   Mathematics                     7
+Gaussian_elimination            23       Abstract_algebra               0.0647658  Function_(mathematics)         13       Diagonal_matrix               0.0416305  Fourier_series                  7
+Mathematical_analysis           22       Real_number                    0.0623558  Polynomial                     13       Algebra_over_a_field          0.04       Linear_functional               7

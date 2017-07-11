@@ -1,0 +1,22 @@
+All langlinks                    Score  All langlinks_norm                 Score  Filtered langlinks           Score  Filtered langlinks_norm        Score  Only english                     Score
+-----------------------------  -------  -----------------------------  ---------  -------------------------  -------  -------------------------  ---------  -----------------------------  -------
+AlphaGo                            348  Artificial_neural_network      2.49401    Artificial_neuron               45  Convolution                0.636727   Artificial_neuron                 30
+Artificial_neuron                   75  AlphaGo                        2.02952    Convolution                     40  Visual_cortex              0.588231   Receptive_field                   18
+Convolution                         50  Multilayer_perceptron          1.15213    Visual_cortex                   12  Artificial_neural_network  0.490132   Regularization                    13
+Multilayer_perceptron               50  Convolution                    0.675487   Receptive_field                 12  Artificial_neuron          0.260116   Overfitting                       11
+Receptive_field                     30  Visual_cortex                  0.595983   Multilayer_perceptron           12  Multilayer_perceptron      0.140507   Convolution                       10
+Artificial_neural_network           18  Artificial_neuron              0.376395   Artificial_neural_network        7  TensorFlow                 0.0897436  Dropout_(neural_networks)          8
+Overfitting                         15  Receptive_field                0.146172   Kernel_(image_processing)        6  Computer_vision            0.0827034  Image_classification               7
+Visual_cortex                       14  TensorFlow                     0.0974955  Overfitting                      4  Apache_Spark               0.0769231  C_(programming_language)           7
+Regularization                      13  Overfitting                    0.0936649  Machine_learning                 3  Kernel_(image_processing)  0.0769231  GPU                                7
+Kernel_(image_processing)           10  Kernel_(image_processing)      0.092427   Activation_function              3  Receptive_field            0.0764043  Translation_(geometry)             6
+Visual_field                         9  Computer_vision                0.0865794  Visual_field                     3  Overfitting                0.0510292  Visual_field                       6
+Dropout_(neural_networks)            9  Apache_Spark                   0.080799   Translational_symmetry           3  Translational_symmetry     0.0384615  Hyperparameter_optimization        4.5
+Image_classification                 7  Translational_symmetry         0.0539654  Sigmoid_function                 2  Machine_learning           0.0314214  Translational_symmetry             4
+C_(programming_language)             7  Regularization                 0.0503876  TensorFlow                       2  AlphaGo                    0.025641   Python_(programming_language)      4
+GPU                                  7  Dropout_(neural_networks)      0.0438283  Computer_vision                  2  Sigmoid_function           0.0253882  Kernel_(image_processing)          4
+Translational_symmetry               7  Machine_learning               0.0430493  AlphaGo                          2  Yann_LeCun                 0.0196078  Multilayer_perceptron              3
+Machine_learning                     6  Visual_field                   0.0405969  Yann_LeCun                       1  Activation_function        0.017341   Machine_learning                   3
+Translation_(geometry)               6  Sigmoid_function               0.0370161  Apache_Spark                     1  Visual_field               0.017341   Natural_language_processing        3
+Sigmoid_function                     5  Python_(programming_language)  0.0283244  MNIST_database                   1  Dropout_(neural_networks)  0.0128205  Mathematical_biology               3
+Python_(programming_language)        5  Image_classification           0.0271318  Database                         1  Dot_product                0.0128205  MNIST_database                     3
